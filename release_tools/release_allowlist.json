@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "product_id": "local.ciel.canvas",
+  "release_version": "1.0.0",
+  "internal_build": "2026.07.13.ciel-canvas-portable-release-rc1",
+  "project_files": [
+    "main.py",
+    "ciel_paths.py",
+    "ciel_diagnostics.py",
+    "requirements.txt",
+    "LICENSE",
+    ".gitignore",
+    ".gitattributes"
+  ],
+  "trees": [
+    {
+      "category": "static",
+      "root": "static",
+      "file_count": 72,
+      "path_inventory_sha256": "9f90161af8d443cb69984d774b662e2f3cb53ac249053f6338a85712107db035"
+    },
+    {
+      "category": "workflows",
+      "root": "workflows",
+      "file_count": 7,
+      "path_inventory_sha256": "163631b446bf92c2346956bb8236cfd8615f355f3592891e597e2b247f39ec7d"
+    }
+  ],
+  "templates": {
+    "root": "templates",
+    "file_count": 14,
+    "path_inventory_sha256": "7adbf46849282cd5d3f9e8d1124549e5e303084782c4fd01fce68b2ce1962ca7"
+  },
+  "approved_app_icon": {
+    "path": "01_一键启动/CIEL Canvas.app/Contents/Resources/AppIcon.icns",
+    "sha256": "02d340882879e66f6642d39f509e995de92dd8ecbc8cc585e3e07b4895115009"
+  },
+  "brand_files": {
+    "CIEL_Primary_Brand_Board.png": "static/brand/ciel/source/CIEL_Primary_Brand_Board.png",
+    "ciel-lockup-light.png": "static/brand/ciel/ciel-lockup-light.png",
+    "ciel-mark-light-1024.png": "static/brand/ciel/ciel-mark-light-1024.png",
+    "ciel-mark-64.png": "static/brand/ciel/ciel-mark-64.png",
+    "ciel-mark-32.png": "static/brand/ciel/ciel-mark-32.png",
+    "favicon.ico": "static/brand/ciel/favicon.ico",
+    "apple-touch-icon.png": "static/brand/ciel/apple-touch-icon.png",
+    "icon-192.png": "static/brand/ciel/icon-192.png",
+    "icon-512.png": "static/brand/ciel/icon-512.png"
+  }
+}

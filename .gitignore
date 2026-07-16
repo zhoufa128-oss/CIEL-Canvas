@@ -1,0 +1,53 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+API/.env
+**/*key*
+**/*token*
+
+# User data and generated content
+UserData/
+data/
+assets/
+output/
+outputs/
+uploads/
+downloads/
+logs/
+cache/
+.run/
+diagnostics/
+*.diagnostics.zip
+
+# Python and local environments
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Build and review outputs
+build/
+dist/
+*.spec.local
+*.zip
+*.rar
+*.7z
+!Build/
+!Build/**
+CIEL-Canvas-v1.0.0-*.zip
+CIEL-Canvas-v1.0.0-*.rar
+SHA256SUMS.txt
+CIEL_Canvas_1.0.0_*.zip
+CIEL_Canvas_1.0.0_*.rar
+Codex工作区/
+审核资料*/
+发行构建*/
+
+# OS/editor metadata
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+Tests/

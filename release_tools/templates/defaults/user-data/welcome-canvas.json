@@ -1,0 +1,17 @@
+{
+  "id": "welcome-ciel-canvas",
+  "title": "欢迎使用 CIEL Canvas",
+  "icon": "sparkles",
+  "kind": "smart",
+  "created_at": 0,
+  "updated_at": 0,
+  "nodes": [],
+  "connections": [],
+  "viewport": {
+    "x": 0,
+    "y": 0,
+    "scale": 1
+  },
+  "logs": [],
+  "settings": {}
+}
