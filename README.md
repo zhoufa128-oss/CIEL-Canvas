@@ -6,7 +6,7 @@ CIEL Canvas（CIEL 无限画布）是基于 [Infinite-Canvas](https://github.com
 
 ## 下载
 
-请从 [v1.0.0 Release](../../releases/tag/v1.0.0) 下载：
+请从 [v1.0.0 Release](https://github.com/zhoufa128-oss/CIEL-Canvas/releases/tag/v1.0.0) 下载：
 
 - **Windows x64 Portable**：解压后可直接运行，当前 Windows EXE 未进行代码签名，SmartScreen 可能要求人工确认。
 - **macOS Apple Silicon BuildKit**：这是在 Apple Silicon Mac 上执行构建的工具包，不是已经构建好的 `.app`。需要 macOS 11 或更高版本、Python 3.11–3.14 和 Xcode Command Line Tools。
@@ -57,4 +57,3 @@ API 密钥必须由使用者自行配置。仓库只保留空值示例和公开 
 ## 反馈
 
 请在 GitHub Issues 中提供可复现步骤、系统版本和脱敏后的日志。不要上传 API 密钥、个人数据、UserData、诊断包或其他私密文件。
-

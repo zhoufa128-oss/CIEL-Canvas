@@ -4,7 +4,7 @@ CIEL Canvas is a non-commercial public source release based on and iterated from
 
 ## Downloads
 
-Download the assets from the [v1.0.0 release](../../releases/tag/v1.0.0):
+Download the assets from the [v1.0.0 release](https://github.com/zhoufa128-oss/CIEL-Canvas/releases/tag/v1.0.0):
 
 - **Windows x64 Portable**: extract and run. The Windows executable is currently unsigned, so SmartScreen may require manual confirmation.
 - **macOS Apple Silicon BuildKit**: build tools for a real Apple Silicon Mac, not a prebuilt `.app`. macOS 11+, Python 3.11–3.14, and Xcode Command Line Tools are required.
@@ -30,4 +30,3 @@ Users must configure their own API keys. This repository contains only empty exa
 The upstream project is Infinite-Canvas (`hero8152/Infinite-Canvas`). CIEL Canvas is a modified and iterated version; the original code is not claimed as wholly created by CIEL. Keep the supplied [`LICENSE`](LICENSE) unchanged and follow its non-commercial, source-disclosure, and attribution requirements. Do not describe this project as MIT, Apache, GPL, BSD, or freely commercial software. Commercial packaging, sales, or other commercial use requires the appropriate authorization.
 
 See [`SOURCE_AND_ATTRIBUTION.md`](SOURCE_AND_ATTRIBUTION.md) and [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md).
-
